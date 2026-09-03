@@ -107,8 +107,7 @@ The dashboard helps identify:
 - Changes in outlet performance over time
 
 ## 📷 Dashboard Preview
-
-![blinkit Screenshot(Blinkit Screenshot.png)
+![Blinkit Dashboard](Blinkit%20Screenshot.png)
 
 ## 👨‍💻 Author
 
