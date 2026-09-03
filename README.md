@@ -108,7 +108,7 @@ The dashboard helps identify:
 
 ## 📷 Dashboard Preview
 
-!Blinkit Screenshot.png
+![blinkit Screenshot(Blinkit Screenshot.png)
 
 ## 👨‍💻 Author
 
