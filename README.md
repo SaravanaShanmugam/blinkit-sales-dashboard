@@ -108,7 +108,7 @@ The dashboard helps identify:
 
 ## 📷 Dashboard Preview
 
-![Blink it Sales Dashboard](dashboard.png)
+!Blinkit Screenshot.png
 
 ## 👨‍💻 Author
 
